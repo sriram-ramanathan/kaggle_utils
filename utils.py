@@ -1,4 +1,4 @@
-#non-numeric
+
 
 def find_hit_rates(train,dtype='string',num_level_threshold=90,sample_size=1000,hit_rate_threshold=0.80,count_threshold=100):
     """"Finds the hitrate of variables of data type string or numeric and filters them for given thresholds"""
